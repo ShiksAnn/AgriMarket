@@ -75,7 +75,7 @@ Farmers often struggle to find fair and reliable markets for their produce.
 | Deployment | Vercel / Render / MongoDB Atlas | Cloud hosting |
 
 ---
-
+```
 AgriMarket/
 ├── client/ # Frontend (React + Vite)
 │ ├── src/
@@ -125,6 +125,7 @@ AgriMarket/
 │ └── package.json
 │
 └── README.md
+```
 
 
 ---
@@ -246,5 +247,4 @@ Full-Stack Developer | SDG Innovator 🌍
 one digital harvest at a time.” 🌾
 
 
-## 🗂️ Project Structure
 
